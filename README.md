@@ -35,12 +35,12 @@ graph LR
     A --> K[📁 output]
     A --> D[📁 source]
     A --> E[📄 Makefile]
-    A --> F["📄 p.ini<br>📄 radial.ini<br>📄 storm.ini"]
+    A --> F["📄 p.ini<br>📄 radial.ini<br>"]
 
     D --> G[📁 Cases]
     D --> H["📄 main.cc<br>📄 Solver.cc<br>📄 Equation.cc<br>..."]
 
-    C --> J["📄 cmp_ay.py<br>📄 cmp_Radial.py<br>📄 cmp_Storm.py"]
+    C --> J["📄 cmp_ay.py<br>📄 cmp_Radial.py<br>"]
 
 ```
 
