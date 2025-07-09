@@ -234,4 +234,4 @@ If you have any suggestions, please contact Peng Peng at pp140594 "AT" mail.ustc
 
 The code is open source under the MIT license. If you find it useful or base your research on it, we would appreciate it if you could cite the following paper:
 
-Peng Peng, Xin Tao, Jay M. Albert, Anthony A. Chan (2025), Sayram: A Positivity-Preserving Open Source 3D Radiation Belt Modeling Code. *To be submitted*.
+Peng, P., Tao, X., Albert, J. M., & Chan, A. A. (2025). Sayram: A positivity-preserving open source 3D radiation belt modeling code. Journal of Geophysical Research: Space Physics, 130, e2025JA033991. https://doi.org/10.1029/2025JA033991
